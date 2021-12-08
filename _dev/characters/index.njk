@@ -3,12 +3,12 @@ title: "Characters | Only Ghouls"
 ---
 
 <h1>Characters</h1>
-<ul>
+<ul class="characters">
 {%- for char in characters -%}
   <li>
     {# <a href="/{{ char.display_name | slug }}/"> #}
       <h2>{{ char.full_name or char.display_name }}</h2>
-      <p><small class="sans">{{ char.category }}</small></p>
+      <small class="sans">{{ char.category }}</small>
       {%- if char.description -%}
       <p>{{ char.description }}</p>
       {%- endif -%}

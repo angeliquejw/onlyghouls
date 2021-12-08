@@ -1,19 +1,39 @@
 <h1>Artwork</h1>
-
-<ul>
+<p>Artwork referenced and often illustrated in the text.</p>
+<ul class="artwork">
 {%- for work in art -%}
   <li>
-    <img src="media/{{work.img}}" alt="">
-    <p class="sans">
-      {%- if work.url -%}
-      <a href="{{ work.url }}">
-      {%- endif -%}
-      {{ work.title }}
-      {%- if work.url -%}
-      </a>
-      {%- endif -%}
-      &nbsp;({{ work.date }}) by {{ work.artist }}
-    </p>
+    <figure>
+      <img src="media/{{work.img}}" alt="">
+      <figcaption class="sans">
+        {%- if work.url -%}
+        <a href="{{ work.url }}">
+        {%- endif -%}
+        {{ work.title }}
+        {%- if work.url -%}
+        </a>
+        {%- endif -%}
+        &nbsp;({{ work.date }}) by {{ work.artist }}
+      </figcaption>
+    </figure>
   </li>
 {%- endfor -%}
 </ul>
+
+<h2>Other artists referenced</h2>
+<ul class="characters">
+{%- for artist in artists -%}
+  <li>
+    {# <a href="/{{ char.display_name | slug }}/"> #}
+      <h2>{{ artist.display_name }}</h2>
+      {%- if artist.description -%}
+      <p>{{ artist.description }}</p>
+      {%- endif -%}
+      {%- if artist.url -%}
+      <p class="sans">More info: <a href="{{ artist.url }}" target="_blank">{{ artist.url }}</a></p>
+      {%- endif -%}
+    {# </a> #}
+  </li>
+{%- endfor -%}
+</ul>
+
