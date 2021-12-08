@@ -1,10 +1,17 @@
 [
   {
-    "title": "Figure with Meat",
-    "artist": "Francis Bacon",
-    "date": "1954",
-    "url": "https://www.artic.edu/artworks/4884/figure-with-meat",
-    "img": "figure_w_meat.jpg"
+    "title": "The Nightmare",
+    "artist": "Henry Fuseli",
+    "date": "1781",
+    "url": "https://www.dia.org/art/collection/object/nightmare-45573",
+    "img": "nightmare.jpg"
+  },
+  {
+    "title": "Saint George and the Dragon",
+    "artist": "Bernat Martorell",
+    "date": "1434-35",
+    "url": "https://www.artic.edu/artworks/15468/saint-george-and-the-dragon",
+    "img": "st_george.jpg"
   },
   {
     "title": "A Sunday on La Grande Jatte",
@@ -26,19 +33,13 @@
     "date": "1849–1850",
     "url": "https://www.artic.edu/artworks/81503/arab-horseman-attacked-by-a-lion",
     "img": "arab_horseman.jpg"
-  },{
+  },
+  {
     "title": "A Witches' Sabbat",
     "artist": "Cornelis Saftleven",
     "date": "c. 1650",
     "url": "https://www.artic.edu/artworks/53495/a-witches-sabbath",
     "img": "witches_sabbat.jpg"
-  },
-  {
-    "title": "Saint George and the Dragon",
-    "artist": "Bernat Martorell",
-    "date": "1434-35",
-    "url": "https://www.artic.edu/artworks/15468/saint-george-and-the-dragon",
-    "img": "st_george.jpg"
   },
   {
     "title": "Eternal Silence",
@@ -48,21 +49,21 @@
     "img": "eternal_silence.jpg"
   },
   {
-    "title": " Paris Street; Rainy Day",
+    "title": "Paris Street; Rainy Day",
     "artist": "Gustave Caillebotte ",
     "date": "1877",
     "url": "https://www.artic.edu/artworks/20684/paris-street-rainy-day",
     "img": "rainy_day_paris.jpg"
   },
   {
-    "title": " Marie de Médicis",
+    "title": "Marie de Médicis",
     "artist": "Frans Pourbus, the Younger",
     "date": "1616",
     "url": "https://www.artic.edu/artworks/78591/marie-de-medicis",
     "img": "marie_de_medicis.jpg"
   },
   {
-    "title": " Portrait of a Woman",
+    "title": "Portrait of a Woman",
     "artist": "Jean Léon Gérôme",
     "date": "1851",
     "url": "https://www.artic.edu/artworks/20686/portrait-of-a-woman",
@@ -83,7 +84,7 @@
     "img": "magdalena.jpg"
   },
   {
-    "title": " The Temptation of the Magdalene",
+    "title": "The Temptation of the Magdalene",
     "artist": "Jacob Jordaens",
     "date": "c. 1616-17",
     "url": "https://www.artic.edu/artworks/111613/the-temptation-of-the-magdalene",
@@ -95,13 +96,6 @@
     "date": "1638",
     "url": "https://www.artic.edu/artworks/61665/saint-romanus-of-antioch-and-saint-barulas",
     "img": "st_romanus.jpg"
-  },
-  {
-    "title": "The Nightmare",
-    "artist": "Henry Fuseli",
-    "date": "1781",
-    "url": "https://www.dia.org/art/collection/object/nightmare-45573",
-    "img": "nightmare.jpg"
   },
   {
     "title": "The Old Guitarist",
@@ -117,7 +111,7 @@
     "img": "blessed.jpg"
   },
   {
-    "title": " Still Life",
+    "title": "Still Life",
     "artist": "Pieter Claesz",
     "date": "c. 1625",
     "url": "https://www.artic.edu/artworks/21682/still-life",
@@ -152,14 +146,14 @@
     "img": "marine.jpg"
   },
   {
-    "title": "Rocks at Port-Goulphar", 
+    "title": "Rocks at Port-Goulphar",
     "artist": "Claude Monet",
     "date": "1886",
     "url": "https://www.artic.edu/artworks/20545/rocks-at-port-goulphar-belle-ile",
     "img": "rocks.jpg"
   },
   {
-    "title": " Fisherman’s Cottage",
+    "title": "Fisherman’s Cottage",
     "artist": "Harald Sohlberg",
     "date": "1906",
     "url": "https://www.artic.edu/artworks/152437/fisherman-s-cottage",
@@ -171,5 +165,12 @@
     "date": "1865",
     "url": "https://www.artic.edu/artworks/28146/alpine-scene",
     "img": "alpine_scene.jpg"
+  },
+  {
+    "title": "Figure with Meat",
+    "artist": "Francis Bacon",
+    "date": "1954",
+    "url": "https://www.artic.edu/artworks/4884/figure-with-meat",
+    "img": "figure_w_meat.jpg"
   }
 ]
