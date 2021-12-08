@@ -1,0 +1,10 @@
+{# ---
+pagination:
+  data: characters
+  size: 1
+  alias: char
+permalink: "characters/{{ char.display_name | slug }}/"
+title: "{{ char.display_name }} | Only Ghouls"
+---
+
+<h1>{{ char.full_name or char.display_name }}</h1> #}

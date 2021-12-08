@@ -1,0 +1,175 @@
+[
+  {
+    "title": "Figure with Meat",
+    "artist": "Francis Bacon",
+    "date": "1954",
+    "url": "https://www.artic.edu/artworks/4884/figure-with-meat",
+    "img": "figure_w_meat.jpg"
+  },
+  {
+    "title": "A Sunday on La Grande Jatte",
+    "artist": "Georges Seurat",
+    "date": "1884",
+    "url": "https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884",
+    "img": "grande_jatte.jpg"
+  },
+  {
+    "title": "Shipwreck",
+    "artist": "Eugène Isabey",
+    "date": "19th c",
+    "url": "https://www.artic.edu/artworks/57854/shipwreck",
+    "img": "shipwreck.jpg"
+  },
+  {
+    "title": "Arab Horseman Attacked by a Lion",
+    "artist": "Eugène Delacroix",
+    "date": "1849–1850",
+    "url": "https://www.artic.edu/artworks/81503/arab-horseman-attacked-by-a-lion",
+    "img": "arab_horseman.jpg"
+  },{
+    "title": "A Witches' Sabbat",
+    "artist": "Cornelis Saftleven",
+    "date": "c. 1650",
+    "url": "https://www.artic.edu/artworks/53495/a-witches-sabbath",
+    "img": "witches_sabbat.jpg"
+  },
+  {
+    "title": "Saint George and the Dragon",
+    "artist": "Bernat Martorell",
+    "date": "1434-35",
+    "url": "https://www.artic.edu/artworks/15468/saint-george-and-the-dragon",
+    "img": "st_george.jpg"
+  },
+  {
+    "title": "Eternal Silence",
+    "artist": "Lorado Zadok Taft",
+    "date": "1909",
+    "url": "https://en.wikipedia.org/wiki/Eternal_Silence_(sculpture)",
+    "img": "eternal_silence.jpg"
+  },
+  {
+    "title": " Paris Street; Rainy Day",
+    "artist": "Gustave Caillebotte ",
+    "date": "1877",
+    "url": "https://www.artic.edu/artworks/20684/paris-street-rainy-day",
+    "img": "rainy_day_paris.jpg"
+  },
+  {
+    "title": " Marie de Médicis",
+    "artist": "Frans Pourbus, the Younger",
+    "date": "1616",
+    "url": "https://www.artic.edu/artworks/78591/marie-de-medicis",
+    "img": "marie_de_medicis.jpg"
+  },
+  {
+    "title": " Portrait of a Woman",
+    "artist": "Jean Léon Gérôme",
+    "date": "1851",
+    "url": "https://www.artic.edu/artworks/20686/portrait-of-a-woman",
+    "img": "portrait_woman.jpg"
+  },
+  {
+    "title": "Tsukioka of the Hyogoya",
+    "artist": "Kitagawa Utamaro 喜多川 歌麿",
+    "date": "c. 1801",
+    "url": "https://www.artic.edu/artworks/60302/tsukioka-of-the-hyogoya-hyogoya-uchi-tsukioka-from-the-series-seiro-bijin-meika-awase",
+    "img": "tsukioka.jpg"
+  },
+  {
+    "title": "Portrait of Magdalena of Saxony, Wife of Elector Joachim II of Brandenburg",
+    "artist": "Lucas Cranach the Elder",
+    "date": "c. 1529",
+    "url": "https://www.artic.edu/artworks/87760/portrait-of-magdalena-of-saxony-wife-of-elector-joachim-ii-of-brandenburg",
+    "img": "magdalena.jpg"
+  },
+  {
+    "title": " The Temptation of the Magdalene",
+    "artist": "Jacob Jordaens",
+    "date": "c. 1616-17",
+    "url": "https://www.artic.edu/artworks/111613/the-temptation-of-the-magdalene",
+    "img": "temptation.jpg"
+  },
+  {
+    "title": "Saint Romanus of Antioch and Saint Barulas",
+    "artist": "Francisco de Zurbarán",
+    "date": "1638",
+    "url": "https://www.artic.edu/artworks/61665/saint-romanus-of-antioch-and-saint-barulas",
+    "img": "st_romanus.jpg"
+  },
+  {
+    "title": "The Nightmare",
+    "artist": "Henry Fuseli",
+    "date": "1781",
+    "url": "https://www.dia.org/art/collection/object/nightmare-45573",
+    "img": "nightmare.jpg"
+  },
+  {
+    "title": "The Old Guitarist",
+    "artist": "Pablo Picasso",
+    "date": "c. 1903-1904",
+    "url": "https://www.artic.edu/artworks/28067/the-old-guitarist",
+    "img": "old_guitarist.jpg"
+  },
+  {
+    "title": "The Blessed Guillaume de Toulouse Tormented by Demons",
+    "artist": "Ambroise Frédeau",
+    "date": "1657",
+    "img": "blessed.jpg"
+  },
+  {
+    "title": " Still Life",
+    "artist": "Pieter Claesz",
+    "date": "c. 1625",
+    "url": "https://www.artic.edu/artworks/21682/still-life",
+    "img": "still_life.jpg"
+  },
+  {
+    "title": "Friar Pedro Shoots El Maragato as His Horse Runs Off",
+    "artist": "Francisco José de Goya y Lucientes",
+    "date": "c.1806",
+    "url": "https://www.artic.edu/artworks/16362/friar-pedro-shoots-el-maragato-as-his-horse-runs-off",
+    "img": "friar_pedro.jpg"
+  },
+  {
+    "title": "Landscape with Figures Crossing A Bridge",
+    "artist": "John Rathbone and George Morland",
+    "date": "c. 1790-1800",
+    "url": "https://www.artic.edu/artworks/15720/landscape-with-figures-crossing-a-bridge",
+    "img": "landscape_bridge.jpg"
+  },
+  {
+    "title": "Landscape at Chailly",
+    "artist": "Frédéric Bazille",
+    "date": "1865",
+    "url": "https://www.artic.edu/artworks/44017/landscape-at-chailly",
+    "img": "chailly.jpg"
+  },
+  {
+    "title": "A Marine",
+    "artist": "George Inness",
+    "date": "c. 1874-75",
+    "url": "https://www.artic.edu/artworks/68792/a-marine",
+    "img": "marine.jpg"
+  },
+  {
+    "title": "Rocks at Port-Goulphar", 
+    "artist": "Claude Monet",
+    "date": "1886",
+    "url": "https://www.artic.edu/artworks/20545/rocks-at-port-goulphar-belle-ile",
+    "img": "rocks.jpg"
+  },
+  {
+    "title": " Fisherman’s Cottage",
+    "artist": "Harald Sohlberg",
+    "date": "1906",
+    "url": "https://www.artic.edu/artworks/152437/fisherman-s-cottage",
+    "img": "fishermans_cottage.jpg"
+  },
+  {
+    "title": "Alpine Scene",
+    "artist": "Gustave Doré",
+    "date": "1865",
+    "url": "https://www.artic.edu/artworks/28146/alpine-scene",
+    "img": "alpine_scene.jpg"
+  }
+]

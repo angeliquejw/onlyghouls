@@ -1,0 +1,132 @@
+[
+  {
+    "display_name": "Karen",
+    "full_name": "Karen Reyes",
+    "category": "family",
+    "description": "Our protaganist and artist"
+  },
+  {
+    "display_name": "Deeze",
+    "full_name": "'Deeze' (Diego Zapata) Reyes",
+    "category": "family",
+    "description": "Karen's older brother"
+  },
+  {
+    "display_name": "Mama",
+    "full_name": "Marvela Deyes",
+    "category": "family",
+    "description": "Mother of Karen and Deeze"
+  },
+  {
+    "display_name": "Dad",
+    "full_name": "?? Reyes",
+    "category": "family",
+    "description": "Father of Karen and Deeze; he's out of the picture for most of the book and we only hear about him through his veiled threats to invoke his 'parental rights.'"
+  },
+  {
+    "display_name": "Victor",
+    "full_name": "Victor Reyes",
+    "category": "family",
+    "description": "???"
+  },
+  {
+    "display_name": "Anka",
+    "full_name": "Anka Silverberg",
+    "category": "neighbors",
+    "description": "Holocaust survivor who lives above the Reyes family. She is murdered early on in the book and Karen is invested in solving her murder."
+  },
+  {
+    "display_name": "Sam",
+    "full_name": "Sam 'Hotstep' Silverberg",
+    "category": "neighbors",
+    "description": "Anka's husband"
+  },
+  {
+    "display_name": "Tut",
+    "category": "neighbors",
+    "description": "Anka's cat"
+  },
+  {
+    "display_name": "Laughing Jack",
+    "full_name": "Laughing Jack Gronan",
+    "category": "neighbors",
+    "description": "Criminal and landlord of the Reyes family; husband to Sylvia. He goes to jail during the course of the book."
+  },
+  {
+    "display_name": "Sylvia",
+    "full_name": "Sylvia Gronan",
+    "category": "neighbors",
+    "description": "Jack's wife who is having an affair with Deeze"
+  },
+  {
+    "display_name": "Mr Chugg",
+    "full_name": "Seamus Chugg",
+    "category": "neighbors",
+    "description": "Ventriloquist who lives in the same building as the Reyes family; he disappears partway through the book."
+  },
+  {
+    "display_name": "Missy",
+    "category": "classmates",
+    "description": "Previously was a blood sister to Karen and shared her interest in monster movies, but has since moved on and frequently picks on Karen."
+  },
+  {
+    "display_name": "Franklin",
+    "category": "classmates",
+    "description": "Boy with scars"
+  },
+  {
+    "display_name": "Sandy",
+    "category": "classmates",
+    "description": "Likely an imaginary friend of Karen's who fills the void left by Missy"
+  },
+  {
+    "display_name": "Jerry",
+    "category": "classmates",
+    "description": "One of four boys who attacks Karen"
+  },
+  {
+    "display_name": "Dean",
+    "category": "classmates",
+    "description": "One of four boys who attacks Karen"
+  },
+  {
+    "display_name": "Steve",
+    "category": "classmates",
+    "description": "One of four boys who attacks Karen"
+  },
+  {
+    "display_name": "unknown",
+    "category": "classmates",
+    "description": "One of four boys who attacks Karen"
+  },
+  {
+    "display_name": "The Brain",
+    "full_name": "Jeffrey 'The Brain' Alvarez",
+    "category": "others",
+    "description": "Deeze's friend and owner of Ray the rabbit"
+  },
+  {
+    "display_name": "Raymond",
+    "full_name": "Raymundo 'Ray Gun' Rabbit",
+    "category": "others",
+    "description": "Jeffrey's rabbit who the Reyes pet sit for a bit"
+  },
+  {
+    "display_name": "Diego Rivera",
+    "category": "historical",
+    "description": "Artist admired by Deeze; also one of the sources of his full name",
+    "url": "https://www.artic.edu/artists/36397/diego-rivera"
+  },
+  {
+    "display_name": "Emiliano Zapata",
+    "category": "historical",
+    "description": "Mexican Revolutionary who Deeze is named after",
+    "url": "https://en.wikipedia.org/wiki/Emiliano_Zapata"
+  },
+  { 
+    "display_name": "Kate 'Kitty' Warne",
+    "category": "historical",
+    "description": "First female detective; Karen 'meets' her in the cemetery",
+    "url": "https://en.wikipedia.org/wiki/Kate_Warne"
+  }
+]

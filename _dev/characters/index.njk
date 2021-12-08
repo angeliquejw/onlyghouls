@@ -1,0 +1,21 @@
+---
+title: "Characters | Only Ghouls"
+---
+
+<h1>Characters</h1>
+<ul>
+{%- for char in characters -%}
+  <li>
+    {# <a href="/{{ char.display_name | slug }}/"> #}
+      <h2>{{ char.full_name or char.display_name }}</h2>
+      <p><small class="sans">{{ char.category }}</small></p>
+      {%- if char.description -%}
+      <p>{{ char.description }}</p>
+      {%- endif -%}
+      {%- if char.url -%}
+      <p class="sans">More info: <a href="{{ char.url }}" target="_blank">{{ char.url }}</a></p>
+      {%- endif -%}
+    {# </a> #}
+  </li>
+{%- endfor -%}
+</ul>

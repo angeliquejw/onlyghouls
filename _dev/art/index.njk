@@ -1,0 +1,19 @@
+<h1>Artwork</h1>
+
+<ul>
+{%- for work in art -%}
+  <li>
+    <img src="media/{{work.img}}" alt="">
+    <p class="sans">
+      {%- if work.url -%}
+      <a href="{{ work.url }}">
+      {%- endif -%}
+      {{ work.title }}
+      {%- if work.url -%}
+      </a>
+      {%- endif -%}
+      &nbsp;({{ work.date }}) by {{ work.artist }}
+    </p>
+  </li>
+{%- endfor -%}
+</ul>

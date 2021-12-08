@@ -1,0 +1,24 @@
+[
+    {
+    "display_name": "Otto Dix",
+    "category": "artist",
+    "description": "German painter of prostitutes, street life and the brutal consequences of war in the Weimar era.",
+    "url": "https://www.artic.edu/artists/34263/otto-dix"
+  },
+  {
+    "display_name": "George Grosz",
+    "category": "artist",
+    "description": "German painter during the Weimar era",
+    "url": "https://www.artic.edu/artists/34753/george-grosz"
+  },
+  {
+    "display_name": "Paul Delvaux",
+    "category": "artist",
+    "url": "https://www.artic.edu/artists/34230/paul-delvaux"    
+  },
+  {
+    "display_name": "Salvador Dalí",
+    "category": "artist",
+    "url": "https://www.artic.edu/artists/34123/salvador-dali"
+  }
+]
