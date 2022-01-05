@@ -1,1 +1,1 @@
-# Only Ghouls: A fan site for Emily Ferris' My Favorite Thing Is Monsters
+# Only Ghouls: A fan site for Emil Ferris' My Favorite Thing Is Monsters
